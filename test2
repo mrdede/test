@@ -1,0 +1,28 @@
+[33m14cc98d[m[33m ([m[1;36mHEAD -> [m[1;32mtest1[m[33m, [m[1;31morigin/test4[m[33m, [m[1;31morigin/test1[m[33m, [m[1;32mtest4[m[33m, [m[1;32mtest1-1[m[33m)[m HEAD@{0}: checkout: moving from test1-1 to test1
+[33m14cc98d[m[33m ([m[1;36mHEAD -> [m[1;32mtest1[m[33m, [m[1;31morigin/test4[m[33m, [m[1;31morigin/test1[m[33m, [m[1;32mtest4[m[33m, [m[1;32mtest1-1[m[33m)[m HEAD@{1}: checkout: moving from master to test1-1
+[33mc044cb0[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmaster[m[33m)[m HEAD@{2}: checkout: moving from test4 to master
+[33m14cc98d[m[33m ([m[1;36mHEAD -> [m[1;32mtest1[m[33m, [m[1;31morigin/test4[m[33m, [m[1;31morigin/test1[m[33m, [m[1;32mtest4[m[33m, [m[1;32mtest1-1[m[33m)[m HEAD@{3}: checkout: moving from test1 to test4
+[33m14cc98d[m[33m ([m[1;36mHEAD -> [m[1;32mtest1[m[33m, [m[1;31morigin/test4[m[33m, [m[1;31morigin/test1[m[33m, [m[1;32mtest4[m[33m, [m[1;32mtest1-1[m[33m)[m HEAD@{4}: checkout: moving from master to test1
+[33mc044cb0[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmaster[m[33m)[m HEAD@{5}: commit (merge): 提交
+[33m968ff03[m HEAD@{6}: checkout: moving from test1 to master
+[33m14cc98d[m[33m ([m[1;36mHEAD -> [m[1;32mtest1[m[33m, [m[1;31morigin/test4[m[33m, [m[1;31morigin/test1[m[33m, [m[1;32mtest4[m[33m, [m[1;32mtest1-1[m[33m)[m HEAD@{7}: commit: 修改index.html
+[33m6eda2d0[m HEAD@{8}: checkout: moving from test3 to test1
+[33md9094e0[m[33m ([m[1;31morigin/test3[m[33m, [m[1;32mtest3[m[33m)[m HEAD@{9}: checkout: moving from master to test3
+[33m968ff03[m HEAD@{10}: commit: 修改index.html文件
+[33m5efce42[m HEAD@{11}: checkout: moving from test3 to master
+[33md9094e0[m[33m ([m[1;31morigin/test3[m[33m, [m[1;32mtest3[m[33m)[m HEAD@{12}: commit: 删除index.html文件
+[33m5efce42[m HEAD@{13}: checkout: moving from master to test3
+[33m5efce42[m HEAD@{14}: checkout: moving from test1 to master
+[33m6eda2d0[m HEAD@{15}: checkout: moving from test2 to test1
+[33mecf9c6c[m HEAD@{16}: commit: 第二个分支第一次提交
+[33m5efce42[m HEAD@{17}: checkout: moving from test1 to test2
+[33m6eda2d0[m HEAD@{18}: checkout: moving from test2 to test1
+[33m5efce42[m HEAD@{19}: checkout: moving from master to test2
+[33m5efce42[m HEAD@{20}: checkout: moving from test2 to master
+[33m5efce42[m HEAD@{21}: checkout: moving from master to test2
+[33m5efce42[m HEAD@{22}: checkout: moving from test1 to master
+[33m6eda2d0[m HEAD@{23}: commit: 分支内增加一个文件
+[33m5efce42[m HEAD@{24}: checkout: moving from master to test1
+[33m5efce42[m HEAD@{25}: commit: 修改说明文档
+[33m5a1a9dc[m HEAD@{26}: commit: 提交首页
+[33mcdf9f37[m HEAD@{27}: clone: from https://github.com/mrdede/test.git
